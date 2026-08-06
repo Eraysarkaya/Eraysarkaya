@@ -1,6 +1,6 @@
 # Hi, I'm Eray Şarkaya 👋
 
-Junior Backend / Full-Stack Developer focused on Python, TypeScript, APIs, databases, and practical AI applications.
+Junior Software Developer focused on Python, TypeScript, APIs, databases, and practical AI applications.
 
 ## Featured work
 
