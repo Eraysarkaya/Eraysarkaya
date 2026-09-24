@@ -1,14 +1,14 @@
 # Merhaba, ben Eray Şarkaya
 
-Gerçek kullanım senaryolarına yönelik web ve mobil uygulamalar geliştiriyorum. Restoranların menülerini yönetebileceği bir platform, kaynaklara dayalı sorular hazırlayan bir eğitim uygulaması ve dosyaları telefonda dönüştüren bir Android uygulaması son çalışmalarım arasında.
+Web, Python ve Android alanlarında uygulamalar geliştiriyorum. Son çalışmalarımda yönetim panelleri, veritabanları, bilgi erişimiyle desteklenen yapay zekâ ve açık kaynak bileşenlerin uygulamalara entegrasyonu üzerinde çalıştım.
 
 ## Öne çıkan projeler
 
 | Proje | Kısa açıklama |
 | --- | --- |
-| [Restaurant QR Menu Platform](https://github.com/Eraysarkaya/restaurant-qr-menu-platform) | Restoranın menüsünü ve sitesini yönetebildiği, müşterinin güncel menüye sabit QR kodundan ulaştığı web platformu. |
-| [Quiz AI](https://github.com/Eraysarkaya/quiz-ai-rag) | Seçilen fen bilimleri konularından kaynaklara dayalı çoktan seçmeli sorular hazırlayan eğitim uygulaması. |
-| [File Converter](https://github.com/Eraysarkaya/file-converter) | Belgeleri sunucuya yüklemeden telefonda dönüştüren gizlilik odaklı Android uygulaması. |
+| [Restaurant QR Menu Platform](https://github.com/Eraysarkaya/restaurant-qr-menu-platform) | Next.js, TypeScript, PostgreSQL ve Prisma ile restoran sitesi, QR menü ve yönetim panelleri. |
+| [Quiz AI](https://github.com/Eraysarkaya/quiz-ai-rag) | FastAPI, Next.js, FAISS ve Groq ile fen bilimleri sınavları ve soru değerlendirme akışı. |
+| [File Converter](https://github.com/Eraysarkaya/file-converter) | Kotlin, Jetpack Compose ve LibreOfficeKit ile cihaz üzerinde belge dönüştürme uygulaması. |
 
 ## Diğer çalışmalar
 
