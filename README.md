@@ -8,7 +8,7 @@ I build practical software across web, Python and Android. My recent work focuse
 | --- | --- |
 | [Restaurant QR Menu Platform](https://github.com/Eraysarkaya/restaurant-qr-menu-platform) | Next.js, TypeScript, PostgreSQL and Prisma; restaurant website, QR menu and separate management areas. |
 | [Quiz AI](https://github.com/Eraysarkaya/quiz-ai-rag) | FastAPI, Next.js, FAISS and Groq; retrieval-based quiz generation with an evaluation workflow. |
-| File Converter (Android) | Kotlin, Jetpack Compose and LibreOfficeKit; offline document conversion feasibility work. Repository link will be added when public. |
+| [File Converter (Android)](https://github.com/Eraysarkaya/file-converter) | Kotlin, Jetpack Compose and LibreOfficeKit; offline document conversion feasibility work. |
 
 ## Other work
 
